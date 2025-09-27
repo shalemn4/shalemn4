@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shalemn3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eOGXVfFH8UQpADO8AkwDIjLzUu-Os8OJ/view?usp=sharing](https://drive.google.com/file/d/1eOGXVfFH8UQpADO8AkwDIjLzUu-Os8OJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1P88yQnI4qVqvJsoI_vCCASdXhxXUBpQT/view?usp=sharing)
 
 - ⚡ Fun fact **I get inspired by anime & games like Vinland Saga, Violet Evergarden, and Wuthering Waves**
 
