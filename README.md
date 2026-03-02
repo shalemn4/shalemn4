@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalemn4&label=Profile%20views&color=0e75b6&style=flat" alt="shalemn4" /> </p>
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB(MERN Stack).**
+- 🌱 I’m currently learning **React.js, Node.js, MongoDB(MERN Stack). contributing to HIVE as a open source contributor**
 
 - 👯 I’m looking to collaborate on **Full stack mern/ small game projects.**
 
